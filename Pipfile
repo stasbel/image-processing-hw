@@ -8,6 +8,9 @@ name = "pypi"
 [packages]
 
 jupyter = "*"
+opencv-python = "*"
+matplotlib = "*"
+numpy = "*"
 
 
 [dev-packages]
