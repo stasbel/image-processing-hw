@@ -11,6 +11,9 @@ jupyter = "*"
 opencv-python = "*"
 matplotlib = "*"
 numpy = "*"
+pandas = "*"
+seaborn = "*"
+scipy = "*"
 
 
 [dev-packages]
